@@ -1,1 +1,1 @@
-Am now learning Git
+Am now learning Git and yest amo on branching and merging.
